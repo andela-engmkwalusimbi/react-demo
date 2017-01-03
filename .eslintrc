@@ -1,0 +1,9 @@
+{
+    "extends": "eslint-config-airbnb",
+    "plugins": [
+        "mocha"
+    ],
+    "rules": {
+        "indent": ["error", 4]
+    }
+}
